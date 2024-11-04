@@ -1,6 +1,6 @@
 obj/msys2/Release/src/ofApp.o: \
- C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/pa1-pa1-taimara-colon-samuel-morales/src/ofApp.cpp \
- C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/pa1-pa1-taimara-colon-samuel-morales/src/ofApp.h \
+ C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/PA1-Particle-System/src/ofApp.cpp \
+ C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/PA1-Particle-System/src/ofApp.h \
  C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/ofMain.h \
  C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/utils/ofConstants.h \
  C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/tess2/include/tesselator.h \
@@ -310,8 +310,8 @@ obj/msys2/Release/src/ofApp.o: \
  C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/3d/of3dUtils.h \
  C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/3d/ofCamera.h \
  C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/3d/ofEasyCam.h \
- C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/pa1-pa1-taimara-colon-samuel-morales/src/Particle.h
-C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/pa1-pa1-taimara-colon-samuel-morales/src/ofApp.h:
+ C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/PA1-Particle-System/src/Particle.h
+C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/PA1-Particle-System/src/ofApp.h:
 C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/ofMain.h:
 C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/utils/ofConstants.h:
 C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/tess2/include/tesselator.h:
@@ -621,4 +621,4 @@ C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/video/ofDir
 C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/3d/of3dUtils.h:
 C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/3d/ofCamera.h:
 C:/Users/Public/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks/3d/ofEasyCam.h:
-C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/pa1-pa1-taimara-colon-samuel-morales/src/Particle.h:
+C:/Users/Public/of_v0.11.2_msys2_mingw32_release/apps/myApps/PA1-Particle-System/src/Particle.h:
