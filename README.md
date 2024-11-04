@@ -13,5 +13,5 @@ to reflect the path to your executable. The executable will have the same name a
 will end in ".exe"
 
 ## Contributors
-Taimara P. Colón López: taimara.colon@upr.edu
-Samuel F. Morales Dávila: samuel.morales18@upr.edu
+- Taimara P. Colón López: taimara.colon@upr.edu
+- Samuel F. Morales Dávila: samuel.morales18@upr.edu
