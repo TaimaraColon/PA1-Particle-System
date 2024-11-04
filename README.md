@@ -12,7 +12,6 @@ found in ".vscode/". In "launch.json" change the "program" attribute for the cor
 to reflect the path to your executable. The executable will have the same name as this repository, and if on Windows, it 
 will end in ".exe"
 
-## Contributors:
-
+## Contributors
 Taimara P. Colón López: taimara.colon@upr.edu
 Samuel F. Morales Dávila: samuel.morales18@upr.edu
