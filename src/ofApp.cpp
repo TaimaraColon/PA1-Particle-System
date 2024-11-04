@@ -101,8 +101,8 @@ void ofApp::draw(){
 	}
 
 	ofSetColor(230);	
-	ofDrawBitmapString(currentModeStr + "\n\nSpacebar to reset. \nKeys 1-4 to change mode.", 10, 20);
-
+	ofDrawBitmapString(currentModeStr + "\n\nSpacebar to reset. \nKeys 1-4 to change mode.\n\nKey D to make particles move faster\nKey A to make particles move slower\nKey T to change colors\nKey S to pause\nKey R to record\nKey P to replay", 10, 20);
+	
 	//Draws the Magnifying Rectangle
 	if (IsRectangleDrawn){
 		ofSetColor(0,250,255,60); //makes the rectangle light blue-ish and semi transparent.
